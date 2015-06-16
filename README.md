@@ -1,2 +1,2 @@
 # linuxclusterfsck
-linuxclusterfsck will be a twitch chat bot programmed in python3.
+linuxclusterfsck will be a twitch chat bot programmed in Go.
