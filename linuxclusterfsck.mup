@@ -18,6 +18,28 @@
                 "1": {
                   "title": "This is probably one of the first tasks.",
                   "id": 22
+                },
+                "2": {
+                  "title": "This should allow twitch integration without requirement of a bot.",
+                  "id": 25
+                },
+                "3": {
+                  "title": "Future Features:",
+                  "id": 26,
+                  "ideas": {
+                    "1": {
+                      "title": "Ability to moderate your channel.",
+                      "id": 27
+                    },
+                    "2": {
+                      "title": "Change your title.",
+                      "id": 28
+                    },
+                    "3": {
+                      "title": "Change your game name.",
+                      "id": 29
+                    }
+                  }
                 }
               }
             },
