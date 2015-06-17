@@ -63,71 +63,6 @@
         }
       }
     },
-    "11": {
-      "title": "Programming Talk:",
-      "id": 6,
-      "attr": {
-        "position": [
-          97,
-          67.5,
-          1
-        ],
-        "style": {}
-      },
-      "ideas": {
-        "1": {
-          "title": "What language?",
-          "id": 7,
-          "ideas": {
-            "1": {
-              "title": "golang",
-              "id": 8,
-              "ideas": {
-                "1": {
-                  "title": "Why?",
-                  "id": 17,
-                  "ideas": {
-                    "1": {
-                      "title": "I want to learn more server side and multithreading/concurrency.",
-                      "id": 18
-                    }
-                  }
-                }
-              },
-              "attr": {
-                "style": {}
-              }
-            }
-          }
-        },
-        "2": {
-          "title": "What Database?",
-          "id": 12,
-          "ideas": {
-            "1": {
-              "title": "sqlite",
-              "id": 14,
-              "ideas": {
-                "1": {
-                  "title": "Why?",
-                  "id": 15,
-                  "ideas": {
-                    "1": {
-                      "title": "Its simple to use.",
-                      "id": 16
-                    }
-                  }
-                },
-                "2": {
-                  "title": "This may change at a later time depending on needs. Right now I just want to get a prototype going.",
-                  "id": 31
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "21": {
       "title": "The plan.",
       "id": 30,
@@ -198,6 +133,79 @@
               },
               "attr": {
                 "style": {}
+              }
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Programming Talk:",
+      "id": 6,
+      "attr": {
+        "position": [
+          113,
+          312,
+          3
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "What language?",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "golang",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Why?",
+                  "id": 17,
+                  "ideas": {
+                    "1": {
+                      "title": "I want to learn more server side and multithreading/concurrency.",
+                      "id": 18
+                    },
+                    "2": {
+                      "title": "OOTB cross-compile capabilities.",
+                      "id": 40
+                    },
+                    "3": {
+                      "title": "Easy documentation.",
+                      "id": 41
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "What Database?",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "sqlite",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "Why?",
+                  "id": 15,
+                  "ideas": {
+                    "1": {
+                      "title": "Its simple to use.",
+                      "id": 16
+                    }
+                  }
+                },
+                "2": {
+                  "title": "This may change at a later time depending on needs. Right now I just want to get a prototype going.",
+                  "id": 31
+                }
               }
             }
           }
