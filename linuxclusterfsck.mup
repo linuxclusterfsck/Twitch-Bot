@@ -173,7 +173,37 @@
                     },
                     "3": {
                       "title": "Easy documentation.",
-                      "id": 41
+                      "id": 41,
+                      "ideas": {
+                        "1": {
+                          "title": "It is easy to see what functions are available",
+                          "id": 48
+                        }
+                      }
+                    },
+                    "4": {
+                      "title": "GUI programming looks interesting.",
+                      "id": 42,
+                      "ideas": {
+                        "1": {
+                          "title": "https://github.com/go-qml/qml",
+                          "id": 44
+                        }
+                      }
+                    },
+                    "5": {
+                      "title": "I really like the documentation and features that come with my IDE.",
+                      "id": 45,
+                      "ideas": {
+                        "1": {
+                          "title": "https://code.google.com/p/golangide/",
+                          "id": 46
+                        },
+                        "2": {
+                          "title": "https://github.com/visualfc/liteide",
+                          "id": 47
+                        }
+                      }
                     }
                   }
                 }
