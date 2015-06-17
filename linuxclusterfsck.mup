@@ -1,5 +1,95 @@
 {
   "title": "linuxclusterfsck",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "What is this?",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "I want to create a modular bot that is able to scale to fit the users needs.",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "Twitch bot capabilities.",
+              "id": 19
+            },
+            "2": {
+              "title": "System modules.",
+              "id": 20,
+              "ideas": {
+                "1": {
+                  "title": "Possibly use this bot in the creation of of Orbos.",
+                  "id": 21
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "11": {
+      "title": "Programming Talk:",
+      "id": 6,
+      "attr": {
+        "position": [
+          97,
+          67.5,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "What language?",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "golang",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Why?",
+                  "id": 17,
+                  "ideas": {
+                    "1": {
+                      "title": "I want to learn more server side and multithreading/concurrency.",
+                      "id": 18
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "What Database?",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "sqlite",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "Why?",
+                  "id": 15,
+                  "ideas": {
+                    "1": {
+                      "title": "Its simple to use.",
+                      "id": 16
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
 }
