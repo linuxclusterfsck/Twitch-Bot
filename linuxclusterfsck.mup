@@ -140,13 +140,13 @@
         "style": {}
       },
       "ideas": {
-        "3": {
-          "title": "Step one.",
-          "id": 35,
+        "15": {
+          "title": "Database library.",
+          "id": 36,
           "ideas": {
             "2": {
-              "title": "Database library.",
-              "id": 36,
+              "title": "Step one.",
+              "id": 35,
               "ideas": {
                 "1": {
                   "title": "I think right now the first step is making a way to create and add to the database.",
@@ -161,20 +161,26 @@
                     "style": {}
                   }
                 }
-              }
-            }
-          }
-        },
-        "14": {
-          "title": "Step two.",
-          "id": 37,
-          "ideas": {
-            "1": {
-              "title": "Twitch library.",
-              "id": 34,
+              },
               "attr": {
                 "style": {}
-              },
+              }
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "16": {
+          "title": "Twitch library.",
+          "id": 34,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "2": {
+              "title": "Step two.",
+              "id": 37,
               "ideas": {
                 "1": {
                   "title": "After we can store and retrieve the data from the database we need to be able to connect to the twitch network.",
@@ -184,8 +190,14 @@
                       "title": "After we can maintain a basic connection we can work on more robust features.",
                       "id": 39
                     }
+                  },
+                  "attr": {
+                    "style": {}
                   }
                 }
+              },
+              "attr": {
+                "style": {}
               }
             }
           }
