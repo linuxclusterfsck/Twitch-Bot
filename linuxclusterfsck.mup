@@ -13,7 +13,13 @@
           "ideas": {
             "1": {
               "title": "Twitch bot capabilities.",
-              "id": 19
+              "id": 19,
+              "ideas": {
+                "1": {
+                  "title": "This is probably one of the first tasks.",
+                  "id": 22
+                }
+              }
             },
             "2": {
               "title": "System modules.",
@@ -21,7 +27,13 @@
               "ideas": {
                 "1": {
                   "title": "Possibly use this bot in the creation of of Orbos.",
-                  "id": 21
+                  "id": 21,
+                  "ideas": {
+                    "1": {
+                      "title": "The bot could have modules that allow usage of the build modules.",
+                      "id": 23
+                    }
+                  }
                 }
               }
             }
