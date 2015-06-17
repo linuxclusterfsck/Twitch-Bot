@@ -22,4 +22,4 @@ linuxclusterfsck will be a twitch chat bot programmed in Go.
 4. Create a new map
 5. Public online map to share with the world
 6. Click extensions and check the github extension.
-7. Put a title in your new map and save it to github. This will initiate an authentication protocol that you must accept to be able to save your mindmup files on github.
+7. Put a title in your new map and save it to github. This will initiate an authentication protocol that you must accept to be able to save/load your mindmup files stored on github.
