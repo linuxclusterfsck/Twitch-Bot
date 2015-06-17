@@ -61,6 +61,10 @@
             }
           }
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "21": {
@@ -72,7 +76,8 @@
           183,
           2
         ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "15": {
@@ -168,7 +173,8 @@
           312,
           3
         ],
-        "style": {}
+        "style": {},
+        "collapsed": true
       },
       "ideas": {
         "1": {
