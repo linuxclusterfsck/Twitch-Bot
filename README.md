@@ -6,10 +6,13 @@ linuxclusterfsck will be a twitch chat bot programmed in Go.
 ## Local Method.
 ##### This method allows you to see what has been done by me. Its quick its easy but it does not really allow collaboration.
 
-1. Save this github repository to your local drive.
-2. Goto https://www.mindmup.com/
-3. Open a map
-4. Import a Freemind or Mindmup file
+1. Save this github repository to your [local](https://github.com/edge226/linuxclusterfsck/archive/master.zip) drive.
+2. Extract the zip.
+3. Goto https://www.mindmup.com/
+4. Open a map
+5. Import a Freemind or Mindmup file
+6. Select the linuxclusterfsck.mup file.
+
 
 ## Github method.
 ##### This method is longer but links mindmup into your github account. 
