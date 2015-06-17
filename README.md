@@ -2,7 +2,7 @@
 linuxclusterfsck will be a twitch chat bot programmed in Go.
 
 # It all starts with an idea.
-I use mind mapping to convey my ideas. The service I use for this is Mindmup. To access this information in the most readable way for me follow the descriptions below.
+I use mind mapping to convey my ideas. The service I use for this is Mindmup. To access this information in the most readable way follow the descriptions below. It allows a visual representation of the data instead of a text representation.
 
 ## Mindmup
 
