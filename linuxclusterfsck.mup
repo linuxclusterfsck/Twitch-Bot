@@ -134,6 +134,20 @@
               "attr": {
                 "style": {}
               }
+            },
+            "3": {
+              "title": "This needs a way to effectively use the whisper feature with the bot to not spam the channel.",
+              "id": 51
+            }
+          }
+        },
+        "17": {
+          "title": "System libraries.",
+          "id": 50,
+          "ideas": {
+            "1": {
+              "title": "This is where the Orbos related stuff will be.",
+              "id": 52
             }
           }
         }
@@ -169,7 +183,13 @@
                     },
                     "2": {
                       "title": "Cross Compiling capabilities.",
-                      "id": 40
+                      "id": 40,
+                      "ideas": {
+                        "1": {
+                          "title": "Can build for windows/linux/mac/arm.",
+                          "id": 49
+                        }
+                      }
                     },
                     "3": {
                       "title": "Easy documentation.",
