@@ -117,6 +117,74 @@
                       "id": 16
                     }
                   }
+                },
+                "2": {
+                  "title": "This may change at a later time depending on needs. Right now I just want to get a prototype going.",
+                  "id": 31
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "21": {
+      "title": "The plan.",
+      "id": 30,
+      "attr": {
+        "position": [
+          123,
+          183,
+          2
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "3": {
+          "title": "Step one.",
+          "id": 35,
+          "ideas": {
+            "2": {
+              "title": "Database library.",
+              "id": 36,
+              "ideas": {
+                "1": {
+                  "title": "I think right now the first step is making a way to create and add to the database.",
+                  "id": 32,
+                  "ideas": {
+                    "1": {
+                      "title": "This will be used to store connection information in something other than a clear text file.",
+                      "id": 33
+                    }
+                  },
+                  "attr": {
+                    "style": {}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "14": {
+          "title": "Step two.",
+          "id": 37,
+          "ideas": {
+            "1": {
+              "title": "Twitch library.",
+              "id": 34,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "After we can store and retrieve the data from the database we need to be able to connect to the twitch network.",
+                  "id": 38,
+                  "ideas": {
+                    "1": {
+                      "title": "After we can maintain a basic connection we can work on more robust features.",
+                      "id": 39
+                    }
+                  }
                 }
               }
             }
